@@ -1,2 +1,2 @@
-# OjibweDialect
-Demo notebook for interpretable Ojibwe Dialect determination using SVMs
+# Ojibwe dialect determination using small corpuses
+Demo notebook for interpretable Ojibwe dialect determination using SVMs
